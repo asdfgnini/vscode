@@ -1,10 +1,5 @@
 
-aux_source_directory(./src SRC_FILE)
-message("SRC_FILE: ${SRC_FILE}")
-file(GLOB HEADER_FILE ./include/*h)
-message("HEADER_FILE: ${HEADER_FILE}")
-add_executable(${PROJECT_NAME} main01.cpp ${SRC_FILE} ${HEADER_FILE})
-
+add_executable(${PROJECT_NAME} main.cpp)
 
 target_compile_features(${PROJECT_NAME} PUBLIC cxx_std_11)
 target_include_directories(${PROJECT_NAME} PUBLIC "G:\\boost_1_84_0")
