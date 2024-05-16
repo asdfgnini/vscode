@@ -1,6 +1,8 @@
 cmake_minimum_required(VERSION 3.16)
 
-project(Basic VERSION 1.0)
+project(demo03)
 
-add_executable(${PROJECT_NAME} main.cpp)
 
+add_subdirectory(src)
+
+add_subdirectory(3rdlibs)
