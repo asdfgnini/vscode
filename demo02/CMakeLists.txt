@@ -1,13 +1,8 @@
-cmake_minimum_required(VERSION 3.21)
+cmake_minimum_required(VERSION 3.16)
 
-project(
-    MEDIA
-    LANGUAGES CXX C
-    DESCRIPTION "my cmake"
-    VERSION 0.1.0
-)
+project(demo03)
 
-set(media_name learnSDL)
 
-add_subdirectory(Main)
+add_subdirectory(src)
+
 add_subdirectory(3rdlibs)

@@ -4,14 +4,16 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "G:/SDL2_2.28.5_vc/include"
+                "F:/third/ffmpeg-master-latest-win64-gpl-shared/include",
+                "F:/third/SDL2-devel-2.30.3-mingw/SDL2-2.30.3/x86_64-w64-mingw32/include/SDL2",
+                "F:/third/SDL2_image-devel-2.8.2-mingw/SDL2_image-2.8.2/x86_64-w64-mingw32/include/SDL2"
             ],
             "defines": [
                 "_DEBUG",
                 "UNICODE",
                 "_UNICODE"
             ],
-            "compilerPath": "G:\\mingw64\\bin\\gcc.exe",
+            "compilerPath": "F:\\compiler\\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\\mingw64\\bin\\gcc.exe",
             "cStandard": "c17",
             "cppStandard": "gnu++14",
             "intelliSenseMode": "windows-gcc-x64",
