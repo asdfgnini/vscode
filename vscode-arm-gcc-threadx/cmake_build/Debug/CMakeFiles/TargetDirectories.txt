@@ -1,0 +1,15 @@
+C:/Users/Shmily/Desktop/vscode-stm32/vscode-arm-gcc/cmake_build/Debug/CMakeFiles/demo05.dir
+C:/Users/Shmily/Desktop/vscode-stm32/vscode-arm-gcc/cmake_build/Debug/CMakeFiles/edit_cache.dir
+C:/Users/Shmily/Desktop/vscode-stm32/vscode-arm-gcc/cmake_build/Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Shmily/Desktop/vscode-stm32/vscode-arm-gcc/cmake_build/Debug/BSP/stm32/CMakeFiles/edit_cache.dir
+C:/Users/Shmily/Desktop/vscode-stm32/vscode-arm-gcc/cmake_build/Debug/BSP/stm32/CMakeFiles/rebuild_cache.dir
+C:/Users/Shmily/Desktop/vscode-stm32/vscode-arm-gcc/cmake_build/Debug/Drivers/CMakeFiles/edit_cache.dir
+C:/Users/Shmily/Desktop/vscode-stm32/vscode-arm-gcc/cmake_build/Debug/Drivers/CMakeFiles/rebuild_cache.dir
+C:/Users/Shmily/Desktop/vscode-stm32/vscode-arm-gcc/cmake_build/Debug/Src/CMakeFiles/edit_cache.dir
+C:/Users/Shmily/Desktop/vscode-stm32/vscode-arm-gcc/cmake_build/Debug/Src/CMakeFiles/rebuild_cache.dir
+C:/Users/Shmily/Desktop/vscode-stm32/vscode-arm-gcc/cmake_build/Debug/Threadx/CMakeFiles/edit_cache.dir
+C:/Users/Shmily/Desktop/vscode-stm32/vscode-arm-gcc/cmake_build/Debug/Threadx/CMakeFiles/rebuild_cache.dir
+C:/Users/Shmily/Desktop/vscode-stm32/vscode-arm-gcc/cmake_build/Debug/Threadx/Port/CMakeFiles/edit_cache.dir
+C:/Users/Shmily/Desktop/vscode-stm32/vscode-arm-gcc/cmake_build/Debug/Threadx/Port/CMakeFiles/rebuild_cache.dir
+C:/Users/Shmily/Desktop/vscode-stm32/vscode-arm-gcc/cmake_build/Debug/Threadx/Src/CMakeFiles/edit_cache.dir
+C:/Users/Shmily/Desktop/vscode-stm32/vscode-arm-gcc/cmake_build/Debug/Threadx/Src/CMakeFiles/rebuild_cache.dir
