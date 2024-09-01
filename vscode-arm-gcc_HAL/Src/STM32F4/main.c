@@ -1,7 +1,6 @@
 
 #include "main.h"
 
-
 int main(void)
 {
 
@@ -12,7 +11,6 @@ int main(void)
 
     while(1)
     {
-
         if(bsp_CheckTimer(0))
         {
             bsp_LedToggle(1);
@@ -20,7 +18,7 @@ int main(void)
             printf("周锦涛\r\n");
             printf("%f\r\n",123.145);
         }
-        		/* 按键滤波和检测由后台systick中断服务程序实现，我们只需要调用bsp_GetKey读取键值即可。 */
+		/* 按键滤波和检测由后台systick中断服务程序实现，我们只需要调用bsp_GetKey读取键值即可。 */
 		ucKeyCode = bsp_GetKey();	/* 读取键值, 无键按下时返回 KEY_NONE = 0 */
 		if (ucKeyCode != KEY_NONE)
 		{
