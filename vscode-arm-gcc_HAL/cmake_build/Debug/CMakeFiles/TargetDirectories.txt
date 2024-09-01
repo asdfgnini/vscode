@@ -1,0 +1,9 @@
+C:/Users/Shmily/Desktop/vscode-stm32/vscode-arm-gcc_HAL/cmake_build/Debug/CMakeFiles/gcc_hal.dir
+C:/Users/Shmily/Desktop/vscode-stm32/vscode-arm-gcc_HAL/cmake_build/Debug/CMakeFiles/edit_cache.dir
+C:/Users/Shmily/Desktop/vscode-stm32/vscode-arm-gcc_HAL/cmake_build/Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Shmily/Desktop/vscode-stm32/vscode-arm-gcc_HAL/cmake_build/Debug/Drivers/STM32F4/CMakeFiles/edit_cache.dir
+C:/Users/Shmily/Desktop/vscode-stm32/vscode-arm-gcc_HAL/cmake_build/Debug/Drivers/STM32F4/CMakeFiles/rebuild_cache.dir
+C:/Users/Shmily/Desktop/vscode-stm32/vscode-arm-gcc_HAL/cmake_build/Debug/Src/STM32F4/CMakeFiles/edit_cache.dir
+C:/Users/Shmily/Desktop/vscode-stm32/vscode-arm-gcc_HAL/cmake_build/Debug/Src/STM32F4/CMakeFiles/rebuild_cache.dir
+C:/Users/Shmily/Desktop/vscode-stm32/vscode-arm-gcc_HAL/cmake_build/Debug/BSP/STM32F4/CMakeFiles/edit_cache.dir
+C:/Users/Shmily/Desktop/vscode-stm32/vscode-arm-gcc_HAL/cmake_build/Debug/BSP/STM32F4/CMakeFiles/rebuild_cache.dir

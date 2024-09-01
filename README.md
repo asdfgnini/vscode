@@ -15,4 +15,6 @@ stm32f4安富莱开发板  vscode+cmake+arm-gcc构建项目
 #vscode-arm-gcc-threadx
 在裸机的基础上添加了threadx操作系统
 
+#vscode-arm-gcc-HAL
+STM32F4 HAL库 GCC+vscode模板
 ---
