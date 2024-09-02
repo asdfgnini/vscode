@@ -1,0 +1,40 @@
+./objects/nx_crypto_methods.o: \
+  ..\..\NetXDUO\crypto_libraries\src\nx_crypto_methods.c \
+  ..\..\NetXDUO\crypto_libraries\inc\nx_crypto_phash.h \
+  ..\..\NetXDUO\crypto_libraries\inc\nx_crypto.h \
+  ..\..\NetXDUO\common\inc\nx_api.h ..\..\ThreadX\common\inc\tx_api.h \
+  ..\..\ThreadX\ports\cortex_m7\ac6\inc\tx_port.h \
+  ..\..\User\threadx\tx_user.h \
+  ..\..\NetXDUO\ports\cortex_m7\ac5\inc\nx_port.h \
+  ..\..\ThreadX\common\inc\tx_trace.h \
+  ..\..\NetXDUO\crypto_libraries\inc\nx_crypto_const.h \
+  ..\..\NetXDUO\crypto_libraries\inc\nx_crypto_hmac_sha2.h \
+  ..\..\NetXDUO\crypto_libraries\inc\nx_crypto_sha2.h \
+  ..\..\NetXDUO\crypto_libraries\inc\nx_crypto_hmac.h \
+  ..\..\NetXDUO\crypto_libraries\inc\nx_crypto_hmac_sha5.h \
+  ..\..\NetXDUO\crypto_libraries\inc\nx_crypto_sha5.h \
+  ..\..\NetXDUO\crypto_libraries\inc\nx_crypto_tls_prf_1.h \
+  ..\..\NetXDUO\crypto_libraries\inc\nx_crypto_hmac_sha1.h \
+  ..\..\NetXDUO\crypto_libraries\inc\nx_crypto_sha1.h \
+  ..\..\NetXDUO\crypto_libraries\inc\nx_crypto_hmac_md5.h \
+  ..\..\NetXDUO\crypto_libraries\inc\nx_crypto_md5.h \
+  ..\..\NetXDUO\crypto_libraries\inc\nx_crypto_tls_prf_sha256.h \
+  ..\..\NetXDUO\crypto_libraries\inc\nx_crypto_tls_prf_sha384.h \
+  ..\..\NetXDUO\crypto_libraries\inc\nx_crypto_tls_prf_sha512.h \
+  ..\..\NetXDUO\crypto_libraries\inc\nx_crypto_hkdf.h \
+  ..\..\NetXDUO\crypto_libraries\inc\nx_crypto_3des.h \
+  ..\..\NetXDUO\crypto_libraries\inc\nx_crypto_des.h \
+  ..\..\NetXDUO\crypto_libraries\inc\nx_crypto_cbc.h \
+  ..\..\NetXDUO\crypto_libraries\inc\nx_crypto_aes.h \
+  ..\..\NetXDUO\crypto_libraries\inc\nx_crypto_ctr.h \
+  ..\..\NetXDUO\crypto_libraries\inc\nx_crypto_ccm.h \
+  ..\..\NetXDUO\crypto_libraries\inc\nx_crypto_gcm.h \
+  ..\..\NetXDUO\crypto_libraries\inc\nx_crypto_rsa.h \
+  ..\..\NetXDUO\crypto_libraries\inc\nx_crypto_null.h \
+  ..\..\NetXDUO\crypto_libraries\inc\nx_crypto_ecjpake.h \
+  ..\..\NetXDUO\crypto_libraries\inc\nx_crypto_ec.h \
+  ..\..\NetXDUO\crypto_libraries\inc\nx_crypto_huge_number.h \
+  ..\..\NetXDUO\crypto_libraries\inc\nx_crypto_ecdsa.h \
+  ..\..\NetXDUO\crypto_libraries\inc\nx_crypto_ecdh.h \
+  ..\..\NetXDUO\crypto_libraries\inc\nx_crypto_drbg.h \
+  ..\..\NetXDUO\crypto_libraries\inc\nx_crypto_pkcs1_v1.5.h
