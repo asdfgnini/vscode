@@ -1,0 +1,8 @@
+#include "app.h"
+
+
+void app_init()
+{
+    ui_init();
+
+}

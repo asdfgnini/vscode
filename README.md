@@ -24,4 +24,6 @@ STM32H7  freertos+LVGL
 STM32H7  threadx+NETX
 # ZJTH7_USBX
 STM32H7  threadx+USBX  这个有bug但是可以识别出来鼠标，但是识别出来后，CPU占用率会达到100%
+# Ring
+esp32的代码工程结构，实现了一些BSP功能
 ---
