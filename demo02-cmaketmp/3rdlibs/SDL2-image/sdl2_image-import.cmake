@@ -36,7 +36,7 @@ set(SDL2IMAGE_BACKEND_STB       1)
 set(SDL2IMAGE_BACKEND_WIC       0)
 
 get_filename_component(CMAKE_CURRENT_LIST_DIR ${CMAKE_CURRENT_LIST_DIR} REALPATH)
-get_filename_component(prefix "F:/third/SDL2_image-devel-2.8.2-mingw/SDL2_image-2.8.2/x86_64-w64-mingw32" ABSOLUTE)
+get_filename_component(prefix "C:/foloheart/3rdlibs/SDL2_image-devel-2.8.2-mingw/SDL2_image-2.8.2/x86_64-w64-mingw32" ABSOLUTE)
 
 set(__SDL2_IMAGE_dll "${prefix}/bin/SDL2_image.dll" CACHE INTERNAL "theffmpeg_avcodec dll")
 

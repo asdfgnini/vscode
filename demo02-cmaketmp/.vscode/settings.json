@@ -1,0 +1,10 @@
+{
+    "clangd.path": "C:/foloheart/compliers/llvm-mingw-20241119-ucrt-x86_64/llvm-mingw-20241119-ucrt-x86_64/bin/clangd.exe", 
+    "clangd.arguments": [
+        "--enable-config",
+        "-log=verbose",
+        "-pretty",
+        "--background-index",
+        "--compile-commands-dir=${workspaceFolder}/cmake-build"
+    ]
+}

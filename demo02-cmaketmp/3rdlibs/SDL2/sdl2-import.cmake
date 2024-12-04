@@ -17,7 +17,7 @@ macro(set_and_check _var _file)
 endmacro()
 
 get_filename_component(CMAKE_CURRENT_LIST_DIR ${CMAKE_CURRENT_LIST_DIR} REALPATH)
-get_filename_component(prefix "F:/third/SDL2-devel-2.30.3-mingw/SDL2-2.30.3/x86_64-w64-mingw32" ABSOLUTE)
+get_filename_component(prefix "C:/foloheart/3rdlibs/SDL2-devel-2.30.9-mingw/SDL2-2.30.9/x86_64-w64-mingw32" ABSOLUTE)
 
 set(__SDL2_dll "${prefix}/bin/SDL2.dll" CACHE INTERNAL "theffmpeg_avcodec dll")
 

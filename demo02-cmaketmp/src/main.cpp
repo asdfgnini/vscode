@@ -2,6 +2,7 @@
 #include <SDL_image.h>
 #include <iostream>
 #include <cstdio>
+
 extern "C"{
     #include "libavformat/avformat.h"
     #include "libavcodec/avcodec.h"
@@ -45,7 +46,7 @@ int main(int argc, char* argv[])
         return 1;
     }
 
-    SDL_Surface* surface = IMG_Load("H:/Browser/image.png");
+    SDL_Surface* surface = IMG_Load("C:/Users/foloheart/Pictures/Screenshots/image.png");
     if (!surface) {
         std::cerr << "Failed to load image: " << IMG_GetError() << std::endl;
         IMG_Quit();
