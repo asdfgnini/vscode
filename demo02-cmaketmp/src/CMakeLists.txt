@@ -1,20 +1,24 @@
 
 # 设置C++编译器的参数设定
-set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++17")
-set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -mconsole")  # 设定以控制台方式编译还是以窗口模式编译
+# 设置 C++ 标准
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -mconsole")  # 设定以控制台方式编译还是以窗口模式编译
 
 
 # 添加可执行文件
 add_executable(demo03 main.cpp)
 
-
 # 链接第三方库
 target_link_libraries(demo03 PRIVATE SDL2::SDL2main SDL2::SDL2 SDL2_image::SDL2_image
     ffmpeg_avformat
     ffmpeg_avcodec  
+    Qt6::Core
+    Qt6::Widgets
 )
+
 
 
 #设定宏函数，用以搬运dll
